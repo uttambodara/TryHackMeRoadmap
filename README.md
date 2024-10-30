@@ -1,16 +1,29 @@
+# List of 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts 🌐
+
+**This repository contains a comprehensive list of 350+ free rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen specific skills. TryHackMe offers guided, hands-on rooms that simulate real-world scenarios, making it a valuable resource for anyone interested in network security, penetration testing, web application hacking, and more.**
+
+**Features**:
+
+- **Organized by Skill Level**: Rooms are grouped into beginner, intermediate, and advanced categories, helping you find the right place to start.
+- **Diverse Topics**: From basic Linux commands to advanced exploitation and network analysis, each room offers focused learning on key cybersecurity concepts.
+- **Resources for Practice**: Each room is self-contained, with step-by-step instructions, challenges, and hints, offering a practical way to learn and apply new skills.
+- **Updated Regularly**: This list will be updated as new rooms are released on TryHackMe, ensuring it stays a relevant tool for ongoing learning.
+
+# Why This List?
+
+**With this curated selection, you won’t need to sift through countless rooms to find relevant learning paths. This list makes it easier to start, progress, and complete targeted cybersecurity training, boosting your confidence and skills across different domains within the field.**
+
+
+---
+
 # TryHackMe Road Map
 
 ---
 
 <br/>
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
+"Here's a list of **350+ free TryHackMe rooms🎉**, organized by topic to help you easily explore different areas of cybersecurity like network security and web exploitation. All rooms are completely *free—enjoy hacking and learning*!"
 
-All the rooms mentioned here are absolute free. ENJOY!!
-
-## Maintainer
-
-> **_This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)_**
 
 <br/>
 

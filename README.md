@@ -923,6 +923,8 @@
 Information
 ------------------
 
-Author: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
+Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
 
-License: [MIT License](https://opensource.org/licenses/MIT)
+License💀: [MIT License](https://opensource.org/licenses/MIT)
+
+

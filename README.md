@@ -918,3 +918,11 @@
 - [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 
 - [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
+
+
+Information
+------------------
+
+Author: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
+
+License: [MIT License](https://opensource.org/licenses/MIT)

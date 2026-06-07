@@ -1,6 +1,6 @@
 # List of 350+ Free TryHackMe Rooms for Cybersecurity Enthusiasts 🌐
 
-**This repository contains a comprehensive list of 350+ free rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen specific skills. TryHackMe offers guided, hands-on rooms that simulate real-world scenarios, making it a valuable resource for anyone interested in network security, penetration testing, web application hacking, and more.**
+**This repository contains a comprehensive list of 350+ free rooms available on TryHackMe (THM) to help you dive into the world of cybersecurity, whether you’re a beginner or looking to sharpen specific skills. TryHackMe offers guided, hands-on rooms that simulate real- world scenarios, making it a valuable resource for anyone interested in networksecurity, penetration testing, web application hacking, and more.**
 
 **Features**:
 
